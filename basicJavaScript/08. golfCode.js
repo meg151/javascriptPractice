@@ -41,7 +41,7 @@ function golfScore(par, strokes) {
   }
 
   // Change these values to test
-  golfScore(5, 4);
+  golfScore(6, 8);
 
   return "Change Me";
   // Only change code above this line
